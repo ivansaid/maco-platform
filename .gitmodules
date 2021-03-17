@@ -1,0 +1,6 @@
+[submodule "maco"]
+	path = maco
+	url = git@github.com:ivansaid/maco.git
+[submodule "maco-app"]
+	path = maco-app
+	url = git@github.com:ivansaid/maco-app.git
