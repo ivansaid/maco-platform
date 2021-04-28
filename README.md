@@ -1,5 +1,5 @@
 # Maco Platform
-App to nurseries with potential customers.
+App to connect nurseries with potential buyers of plants and anything that nurseries offer.
 
 
 | Maco-Platform | Description |  Links |
